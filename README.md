@@ -30,9 +30,9 @@
   
   <!-- Platforms & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://sta.codeforces.com/s/68212/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="40" height="40"/>
-  <img src="https://cdn.codechef.com/sites/default/files/uploads/pictures/3b10a1ac0e1e9c8b931c19a8d4e1d8c0.png" alt="CodeChef" width="40" height="40"/>
-  <img src="https://i.postimg.cc/YqRSp1qZ/beecrowd-logo.png" alt="Beecrowd" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" alt="Codeforces" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codechef.svg" alt="CodeChef" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/beecrowd.svg" alt="Beecrowd" width="40" height="40"/>
   <img src="https://cses.fi/logo.png" alt="CSES" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40"/>
   
@@ -46,9 +46,8 @@
   
   <!-- Editors -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png" alt="Sublime Text" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sublimetext.svg" alt="Sublime Text" width="40" height="40"/>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
