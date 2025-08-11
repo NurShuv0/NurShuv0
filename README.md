@@ -17,29 +17,29 @@
 ---
 ## 🔧 Technologies & Tools
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="40" height="40"/>
   
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" width="40" height="40"/>
   
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Codeforces.svg" alt="Codeforces" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CodeChef.svg" alt="CodeChef" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Beecrowd.svg" alt="Beecrowd" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CSES.svg" alt="CSES" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HackerRank.svg" alt="HackerRank" width="40" height="40"/>
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Codeforces-445781?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Beecrowd-3A5B84?style=for-the-badge&logo=beecrowd&logoColor=white" alt="Beecrowd" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/CSES-115C8E?style=for-the-badge&logo=cses&logoColor=white" alt="CSES" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" width="40" height="40"/>
   
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="40" height="40"/>
   
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublimetext/sublimetext-original.svg" alt="Sublime Text" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="40" height="40"/>
+  
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Sublime%20Text-FF9900?style=for-the-badge&logo=sublime%20text&logoColor=white" alt="Sublime Text" width="40" height="40"/>
 </p>
 ---
 
