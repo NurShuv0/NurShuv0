@@ -30,7 +30,7 @@
   <!-- Platforms / Tools -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://sta.codeforces.com/s/58906/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="100" height="100"/>
-  <img src="https://cdn.codechef.com/sites/default/files/uploads/pictures/0f4bd3089d1d8d5ebf9899f6f2d75c3d.svg" alt="CodeChef" width="40" height="40"/>
+  <img src="[https://cdn.codechef.com/sites/default/files/uploads/pictures/0f4bd3089d1d8d5ebf9899f6f2d75c3d.svg](https://cdn.brandfetch.io/idM2-b7Taf/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B)" alt="CodeChef" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Beecrowd_logo.svg" alt="Beecrowd" width="40" height="40"/>
   <img src="https://cses.fi/logo.svg" alt="CSES" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.svg" alt="HackerRank" width="40" height="40"/>
