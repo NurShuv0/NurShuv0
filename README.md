@@ -25,16 +25,15 @@
 
   <!-- Frameworks -->
   <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Django" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" width="40" height="40"/>
   <img src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" alt="Flutter" width="40" height="40"/>
 
   <!-- Platforms / Tools -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://sta.codeforces.com/s/58906/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="100" height="40"/>
   <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="CodeChef" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Beecrowd_logo.svg" alt="Beecrowd" width="40" height="40"/>
-  <img src="https://cses.fi/logo.svg" alt="CSES" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.svg" alt="HackerRank" width="40" height="40"/>
+  <img src="https://www.beecrowd.com.br/judge/img/2015-beecrowd-logo.png" alt="Beecrowd" width="40" height="40"/>
+  <img src="https://cses.fi/cses.svg" alt="CSES" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" width="40" height="40"/>
 
   <!-- Web -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -46,7 +45,7 @@
 
   <!-- Editors -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/4c/Sublime_Text_Logo.svg" alt="Sublime Text" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="Sublime Text" width="40" height="40"/>
 </p>
 
 ---
