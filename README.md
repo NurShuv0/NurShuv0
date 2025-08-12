@@ -18,19 +18,20 @@
 ## 🔧 Technologies & Tools
 <p align="left">
   <!-- Programming Languages -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.svg" alt="C" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
 
   <!-- Frameworks -->
   <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Django" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" width="40" height="40"/>
+  <img src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" alt="Flutter" width="40" height="40"/>
 
   <!-- Platforms / Tools -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://sta.codeforces.com/s/58906/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="100" height="40"/>
-  <img src="https://cdn.brandfetch.io/idM2-b7Taf/theme/light/logo.svg" alt="CodeChef" width="40" height="40"/>
+  <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="CodeChef" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Beecrowd_logo.svg" alt="Beecrowd" width="40" height="40"/>
   <img src="https://cses.fi/logo.svg" alt="CSES" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.svg" alt="HackerRank" width="40" height="40"/>
