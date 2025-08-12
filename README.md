@@ -71,4 +71,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-shuvo-88314933a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurshuv0.10@gmail.com)
 
-💡 *"Code is like humor. When you have to explain it, it’s bad."* 😄
+💡 *"The code you write makes you a programmer. The code you delete makes you a good one."* 😄
