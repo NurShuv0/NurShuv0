@@ -45,7 +45,7 @@
 
   <!-- Editors -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sublimetext/sublimetext-icon.svg" alt="Sublime Text" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/gist/DeepakKumar2204/5d1a4f8f3d0e4f0f4b4e/raw/3a9d8b5d9b5d9b5d9b5d9b5d9b5d9b5d9b5d9b/sublime-text-logo.png" alt="Sublime Text" width="40" height="40"/>
 </p>
 ---
 
