@@ -16,19 +16,37 @@
 
 ---
 ## 🔧 Technologies & Tools
-<img src="https://img.shields.io/badge/C%20-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/GitHub-%23100000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Sublime%20Text-%23FF9900.svg?style=for-the-badge&logo=sublime%20text&logoColor=white" alt="Sublime Text"/>
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.svg" alt="C" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
+
+  <!-- Frameworks -->
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Django" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.svg" alt="Flutter" width="40" height="40"/>
+
+  <!-- Platforms / Tools -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://sta.codeforces.com/s/58906/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="40" height="40"/>
+  <img src="https://cdn.codechef.com/sites/default/files/uploads/pictures/0f4bd3089d1d8d5ebf9899f6f2d75c3d.svg" alt="CodeChef" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Beecrowd_logo.svg" alt="Beecrowd" width="40" height="40"/>
+  <img src="https://cses.fi/logo.svg" alt="CSES" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.svg" alt="HackerRank" width="40" height="40"/>
+
+  <!-- Web -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="40" height="40"/>
+
+  <!-- Databases -->
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="40" height="40"/>
+
+  <!-- Editors -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/4c/Sublime_Text_Logo.svg" alt="Sublime Text" width="40" height="40"/>
+</p>
 
 ---
 
