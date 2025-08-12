@@ -45,7 +45,7 @@
 
   <!-- Editors -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="Sublime Text" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublimetext/sublimetext-original.svg" alt="Sublime Text" width="40" height="40"/>
 </p>
 ---
 
