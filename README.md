@@ -31,9 +31,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://sta.codeforces.com/s/58906/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="100" height="40"/>
   <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="CodeChef" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/38115556/212448556-4f40a7b6-1b8e-4e2e-9e0a-4a8a7d7e9b8e.png" alt="Beecrowd" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/38115556/212448558-5b5b5b5b-5b5b-5b5b-5b5b-5b5b5b5b5b5b.png" alt="CSES" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.svg" alt="HackerRank" width="40" height="40"/>
+  <img src="https://www.beecrowd.com.br/judge/img/2015-beecrowd-logo.png" alt="Beecrowd" width="40" height="40"/>
+  <img src="https://cses.fi/cses.svg" alt="CSES" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" width="40" height="40"/>
 
   <!-- Web -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -45,7 +45,7 @@
 
   <!-- Editors -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/38115556/212448559-7c7c7c7c-7c7c-7c7c-7c7c-7c7c7c7c7c7c.png" alt="Sublime Text" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="Sublime Text" width="40" height="40"/>
 </p>
 ---
 
