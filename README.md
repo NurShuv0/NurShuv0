@@ -24,7 +24,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
 
   <!-- Frameworks -->
-  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Django" width="40" height="40"/>
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Django" width="80" height="80"/>
   <img src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" alt="Flutter" width="100" height="100"/>
 
   <!-- Platforms / Tools -->
@@ -45,7 +45,7 @@
 
   <!-- Editors -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/gist/DeepakKumar2204/5d1a4f8f3d0e4f0f4b4e/raw/3a9d8b5d9b5d9b5d9b5d9b5d9b5d9b5d9b5d9b/sublime-text-logo.png" alt="Sublime Text" width="40" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Sublime_text_logo.svg" alt="Sublime Text Logo" width="40" height="40"/>
 </p>
 ---
 
