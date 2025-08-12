@@ -14,6 +14,8 @@
 - 💬 Ask me about Java, Python, Django, Databases, and Problem Solving.  
 - ❤️ Coding is not just my skill, it’s my passion.
 
+![Profile Views](https://komarev.com/ghpvc/?username=NurShuv0&style=flat-square&color=blue)
+
 ---
 ## 🔧 Technologies & Tools
 <p align="left">
