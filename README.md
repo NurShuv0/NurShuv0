@@ -27,7 +27,6 @@
 
   <!-- Frameworks -->
   <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Django" width="80" height="80"/>
-  //<img src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" alt="Flutter" width="100" height="100"/>
 
   <!-- Platforms / Tools -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>
