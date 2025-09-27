@@ -10,7 +10,6 @@
 ## 📌 About Me
 - 🎯 Goal: Become a strong competitive programmer & software engineer in Bangladesh.  
 - 🔭 Projects: Gardening Assistant, Crime Investigation & Reporting System, Weather Green App, BUBT Crush Game.  
-- 📚 Learning: **Machine Learning** + **Full Stack Web Development**.  
 - 💬 Ask me about Java, Python, Django, Databases, and Problem Solving.  
 - ❤️ Coding is not just my skill, it’s my passion.
 
