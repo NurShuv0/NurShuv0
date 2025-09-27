@@ -56,9 +56,9 @@
 
 ## 🏆 Achievements & Goals
 - ✅ Developed multiple real-world software projects.
-- ✅ Strengthened OOP, database, and full-stack skills.
+- ✅ Strengthened OOP, database, and c++,java,python skill.
 - 🔜 Competed in virtual contest and ranked in university contest.
-- 🎯 Master AI & ML to integrate into my projects.
+- 🎯 trying to integrate ML in my project
 - ✅ Goal is to participate in icpc regional contest.
 
 ---
