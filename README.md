@@ -72,4 +72,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurshuv0.10@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nur_777x)
 
-💡 *"The code you write makes you a programmer. The code you delete makes you a good one."* 😄
+💡 *"First, solve the problem. Then, write the code."* 
