@@ -8,7 +8,7 @@
 ---
 
 ## 📌 About Me
-- 🎯 Goal: Become a strong competitive programmer & software engineer 
+- 🎯 Goal: Become a strong competitive programmer & software engineer.
 - 🔭 Projects: Gardening Assistant, Crime Investigation & Reporting System, Weather Green App, BUBT Crush Game.  
 - 💬 Ask me about Java, Python, Django, Databases, and Problem Solving.  
 - ❤️ Coding is not just my skill, it’s my passion.
