@@ -2,7 +2,7 @@
 
 💻 Passionate **Competitive programmer** and want to be a **Software engineer** | Future plan is **AI Engineer**  
 🌱 Currently building projects in **Java**, **Python**, and **Web Development**.  
-🚀 Learning **Flutter** and preparing myself for icpc regional contest.
+🚀 Learning **Flutter** and preparing myself to be a good competitive programmer.
 ⚡ I love solving problems and learning new technologies every day.  
 
 ---
