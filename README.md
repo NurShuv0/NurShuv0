@@ -1,17 +1,17 @@
-# 👋 Hey there, I'm **Nur**  
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="30" height="30" /> Hey there, I'm **Nur**  
 
-💻 Passionate **Competitive programmer** and want to be a **Software engineer** | Future plan is **AI Engineer**  
-🌱 Currently building projects in **Java**, **Python**, and **Web Development**.  
-🚀 Learning **Flutter** and preparing myself to be a good competitive programmer.
-⚡ I love solving problems and learning new technologies every day.  
+🧑‍💻 **Competitive Programmer** | Aspiring **Software Engineer** | Future **AI Engineer**  
+⚙️ Currently building projects in **Java**, **Python**, and **Web Development**.  
+📱 Learning **Flutter** and preparing myself to be a strong competitive programmer.  
+🧩 I love solving problems and learning new technologies every day.
 
 ---
 
 ## 📌 About Me
-- 🎯 Goal: Become a strong competitive programmer & software engineer.
-- 🔭 Projects: Gardening Assistant, Crime Investigation & Reporting System, Weather Green App, BUBT Crush Game.  
-- 💬 Ask me about Java, Python, Django, Databases, and Problem Solving.  
-- ❤️ Coding is not just my skill, it’s my passion.
+- 🎯 `Goal:` Become a strong competitive programmer & software engineer.
+- 🗂️ `Projects:` Gardening Assistant, Crime Investigation & Reporting System, Weather Green App, BUBT Crush Game.
+- 💬 `Ask me about:` Java, Python, Django, Databases, and Problem Solving.
+- ❤️ `Passion:` Coding is not just my skill, it’s my passion.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NurShuv0&style=flat-square&color=blue)
 
@@ -36,7 +36,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" width="40" height="40"/>
   <img src="https://img.atcoder.jp/assets/atcoder.png" alt="AtCoder" width="100" height="40"/>
 
-
   <!-- Web -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="40" height="40"/>
@@ -48,20 +47,19 @@
   <!-- Editors -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
 </p>
----
 
+---
 ## 📊 GitHub Stats
 ![Nur's GitHub stats](https://github-readme-stats.vercel.app/api?username=NurShuv0&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurShuv0&layout=compact&theme=tokyonight)
 
 ---
-
 ## 🏆 Achievements & Goals
-- ✅ Developed multiple real-world software projects.
-- ✅ Strengthened OOP, database, and c++,java,python skill.
-- 🔜 Competed in virtual contest and ranked in university contest.
-- 🎯 trying to integrate ML in my project
-- ✅ Goal is to participate in icpc regional contest.
+- ✔️ Built multiple real-world software projects.
+- ✔️ Strengthened OOP, Database, C++, Java, and Python skills.
+- ⏳ Competing in virtual contests and ranked in university contests.
+- 🧠 Working on integrating Machine Learning into projects.
+- 🎯 Target: Participate in **ICPC Regional Contest**.
 
 ---
 ## 📫 Connect With Me
@@ -72,4 +70,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurshuv0.10@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nur_777x)
 
-💡 *"First, solve the problem. Then, write the code."* 
+💡 *"First, solve the problem. Then, write the code."*
+
