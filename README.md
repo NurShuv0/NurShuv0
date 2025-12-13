@@ -59,7 +59,6 @@
 - ✔️ Strengthened OOP, Database, C++, Java, and Python skills.
 - ⏳ Competing in virtual contests and ranked in university contests.
 - 🧠 Working on integrating Machine Learning into projects.
-- 🎯 Target: Participate in **ICPC Regional Contest**.
 
 ---
 ## 📫 Connect With Me
