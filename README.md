@@ -10,8 +10,8 @@
 ## 📌 About Me
 - 🎯 `Goal:` Become a strong competitive programmer & software engineer.
 - 🗂️ `Projects:` Gardening Assistant, Crime Investigation & Reporting System, Weather Green App, BUBT Crush Game.
-- 💬 `Ask me about:` Java, Python, Django, Databases, and Problem Solving.
-- ❤️ `Passion:` Coding is not just my skill, it’s my passion.
+- ⚙️ `Ask me about:` Java, Python, Django, Databases, and Problem Solving.
+- 🖥️ `Passion:` Coding is not just my skill, it’s my passion.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NurShuv0&style=flat-square&color=blue)
 
@@ -57,8 +57,7 @@
 ## 🏆 Achievements & Goals
 - ✔️ Built multiple real-world software projects.
 - ✔️ Strengthened OOP, Database, C++, Java, and Python skills.
-- ⏳ Competing in virtual contests and ranked in university contests.
-- 🧠 Working on integrating Machine Learning into projects.
+- ✔️ Competing in virtual contests and ranked in university contests.
 
 ---
 ## 📫 Connect With Me
