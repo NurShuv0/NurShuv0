@@ -2,7 +2,7 @@
 
 🧑‍💻 **Competitive Programmer** | Aspiring **Software Engineer**  
 ⚙️ Currently building projects in **Java**, **Python**.  
-📱 Learning **Flutter** and preparing myself to be a strong competitive programmer.  
+📱 Learning every day and preparing myself to be a strong competitive programmer.  
 🧩 I love solving problems and learning new technologies every day.
 
 ---
