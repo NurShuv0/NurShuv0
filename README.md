@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="30" height="30" /> Hey there, I'm **Nur**  
 
 🧑‍💻 **Competitive Programmer** | Aspiring **Software Engineer**  
-⚙️ Currently building projects in **Java**, **Python**.  
+⚙️ Currently building projects in **Python**.  
 📱 Learning every day and preparing myself to be a strong competitive programmer.  
 🧩 I love solving problems and learning new technologies every day.
 
