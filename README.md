@@ -59,12 +59,17 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
-![Nur's GitHub stats](https://github-readme-stats.vercel.app/api?username=NurShuv0\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=NurShuv0&show_icons=true&theme=tokyonight&hide_border=true" alt="Nur's GitHub Stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurShuv0\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NurShuv0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
 
 ---
 
